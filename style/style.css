@@ -87,7 +87,7 @@ nav > a:hover {
 main {
     text-align: justify;
     background-color: white;
-    min-width: 400px;
+    min-width: 320px;
     max-width: 1000px;
     padding: 20px;
     margin: auto;
